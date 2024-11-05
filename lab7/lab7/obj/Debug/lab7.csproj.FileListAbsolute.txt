@@ -1,0 +1,11 @@
+Z:\lab7\lab7\bin\Debug\lab7.exe.config
+Z:\lab7\lab7\bin\Debug\lab7.exe
+Z:\lab7\lab7\bin\Debug\lab7.pdb
+Z:\lab7\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+Z:\lab7\lab7\obj\Debug\lab7.Form1.resources
+Z:\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+Z:\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+Z:\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+Z:\lab7\lab7\obj\Debug\lab7.exe
+Z:\lab7\lab7\obj\Debug\lab7.pdb
+Z:\lab7\lab7\obj\Debug\lab7.fOODInfoForm.resources
